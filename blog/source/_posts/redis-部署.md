@@ -1,5 +1,5 @@
 ---
-title: redis 学习
+title: redis 部署
 date: 2019-05-03 11:57:08
 categories: redis
 tags: redis
